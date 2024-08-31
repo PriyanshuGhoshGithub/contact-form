@@ -65,3 +65,8 @@ button {
 button:hover {
     background-color: rgb(160, 126, 82);
 }
+
+h1{
+    font-family: monospace;
+    
+}
